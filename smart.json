@@ -6,7 +6,6 @@
   "version": "0.7.2",
   "git": "https://github.com/EventedMind/iron-router.git",
   "packages": {
-    "blaze-layout": {},
     "deps-ext": {
       "git": "https://github.com/EventedMind/deps-ext.git",
       "branch": "master"
